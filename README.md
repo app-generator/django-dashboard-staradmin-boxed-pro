@@ -1,0 +1,1 @@
+# django-dashboard-staradmin-boxed-pro
